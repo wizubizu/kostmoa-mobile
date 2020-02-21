@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <g id="Group_153" data-name="Group 153" opacity="0.9">
+    <rect id="Rectangle_45_Copy_14" data-name="Rectangle 45 Copy 14" width="20" height="20" fill="none"/>
+    <g id="ellipsis" transform="translate(3 8.5)">
+      <path id="Shape" d="M0,1.5A1.5,1.5,0,1,0,1.5,0,1.5,1.5,0,0,0,0,1.5Z" fill="#00ce88"/>
+      <path id="Shape-2" data-name="Shape" d="M0,1.5A1.5,1.5,0,1,0,1.5,0,1.5,1.5,0,0,0,0,1.5Z" transform="translate(5.5)" fill="#00ce88"/>
+      <path id="Shape-3" data-name="Shape" d="M0,1.5A1.5,1.5,0,1,0,1.5,0,1.5,1.5,0,0,0,0,1.5Z" transform="translate(11)" fill="#00ce88"/>
+    </g>
+  </g>
+</svg>
